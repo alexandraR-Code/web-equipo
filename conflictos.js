@@ -25,6 +25,13 @@ const integrantes = [
         bio: "Estructura inicial del sistema lista para recibir las tarjetas de los nuevos ingenieros del equipo."
 
        }
+    {
+        id: 4,
+        nombre: "Estudiante B",
+        rol: "Frontend Enginner",
+        bio: "Desarrollador full Stack"
+
+       }
 ];
 
 // Función para renderizar las tarjetas dinámicamente en el HTML
