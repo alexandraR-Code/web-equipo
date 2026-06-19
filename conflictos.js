@@ -38,6 +38,13 @@ const integrantes = [
         rol: "Frontend Enginner",
         bio: "Desarrollador full Stack"
 
+       },
+    {
+        id: 6,
+        nombre: "Estudiante A",
+        rol: "Frontend Enginner",
+        bio: "Desarrollador full Stack"
+
        }
 ];
 
