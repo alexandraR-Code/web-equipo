@@ -24,10 +24,17 @@ const integrantes = [
         rol: "Frontend Enginner",
         bio: "Estructura inicial del sistema lista para recibir las tarjetas de los nuevos ingenieros del equipo."
 
-       }
+       },
     {
         id: 4,
         nombre: "Estudiante B",
+        rol: "Frontend Enginner",
+        bio: "Desarrollador full Stack"
+
+       },
+    {
+        id: 5,
+        nombre: "Estudiante A",
         rol: "Frontend Enginner",
         bio: "Desarrollador full Stack"
 
