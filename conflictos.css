@@ -49,7 +49,7 @@ body {
     border-radius: 20px;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
     padding: 2rem;
-    border-top: 5px solid #1a1a1a; /* 👈 PROPIEDAD CLAVE: Cambiar este color generará conflicto */
+    border-top: 5px solid #a70a0a; /* 👈 PROPIEDAD CLAVE: Cambiar este color generará conflicto */
     text-align: center;
     transition: transform 0.2s, box-shadow 0.2s;
 }
